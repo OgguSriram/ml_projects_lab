@@ -1,0 +1,25 @@
+FINAL CLASSIFICATION REPORT – ResNet50 Fine-Tuned
+
+Accuracy: 46%
+
+Class-wise Performance:
+
+glioma_tumor:
+  Precision: 0.68
+  Recall:    0.13
+  F1-score:  0.22
+
+meningioma_tumor:
+  Precision: 0.43
+  Recall:    0.23
+  F1-score:  0.30
+
+no_tumor:
+  Precision: 0.42
+  Recall:    0.90
+  F1-score:  0.58
+
+pituitary_tumor:
+  Precision: 0.54
+  Recall:    0.66
+  F1-score:  0.60
