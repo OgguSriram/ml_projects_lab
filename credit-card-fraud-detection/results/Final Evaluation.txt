@@ -1,0 +1,11 @@
+## 📈 Final Evaluation (Unseen Test Set)
+
+| Metric    | Fraud Class |
+|-----------|-------------|
+| Precision | 0.78        |
+| Recall    | 0.85        |
+| F1-score  | 0.81        |
+
+- Evaluation performed on unseen test data
+- Threshold tuning applied **after model training**
+- Metrics reflect realistic fraud detection performance
