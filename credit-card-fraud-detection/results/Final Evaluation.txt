@@ -1,4 +1,4 @@
-## 📈 Final Evaluation (Unseen Test Set)
+ 📈 Final Evaluation (Unseen Test Set)
 
 | Metric    | Fraud Class |
 |-----------|-------------|
@@ -9,3 +9,4 @@
 - Evaluation performed on unseen test data
 - Threshold tuning applied **after model training**
 - Metrics reflect realistic fraud detection performance
+
